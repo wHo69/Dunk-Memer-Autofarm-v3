@@ -1,0 +1,9 @@
+{
+    "beg": true,
+    "dig": true,
+    "fish": true,
+    "hunt": true,
+    "search": true,
+    "deposit": true,
+    "sell": true
+}

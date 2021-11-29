@@ -1,0 +1,4 @@
+1. Change options list in optionsHandler.py
+2. Change the printing in optionsMenu()
+3. Change handleChoice() list
+4. If there's a command, add it to autofarm.py too, under farm()
